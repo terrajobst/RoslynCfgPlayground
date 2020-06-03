@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CfgTest": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\immo\\source\\repos\\ConsoleApp14\\Test\\Test.csproj\""
+    }
+  }
+}
